@@ -64,6 +64,7 @@ dependencies:
   socket_io_client: ^0.9.12
   pointycastle: ^2.0.0
   syncfusion_flutter_gauges: ^18.3.53
+  flutter_swiper: ^1.1.6
 
 dev_dependencies:
   flutter_test:

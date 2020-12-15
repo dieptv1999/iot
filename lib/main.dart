@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:grpc/grpc.dart';
 import 'package:iot/common/observable.dart';
 import 'login.dart';
-import 'widgets/home.dart';
+import 'home.dart';
 
 Future<void> main() async {
   runApp(RestartWidget(child: MyApp()));

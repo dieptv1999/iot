@@ -8,7 +8,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:http/http.dart' as http;
 
 import 'services/auth.dart';
-import 'widgets/home.dart';
+import 'home.dart';
 import 'widgets/login_cart.dart';
 import 'widgets/social_icons.dart';
 
